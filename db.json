@@ -9,6 +9,7 @@
       "image": "/public/photo_articles/96_a901605d4603acf0cdc54d63acac56fb.jpg",
       "championnat": {
         "nom": "NATIONALE MASCULINE 3",
+        "nomCourt": "NM3",
         "poule": "A",
         "genre": "masculin",
         "categorie": "Sénior"
@@ -24,11 +25,113 @@
       "image": "/public/photo_articles/96_a901605d4603acf0cdc54d63acac56fb.jpg",
       "championnat": {
         "nom": "NATIONALE MASCULINE 3",
+        "nomCourt": "NM3",
         "poule": "A",
         "genre": "masculin",
         "categorie": "Sénior"
       },
       "nbComments": 10
+    }
+  ],
+  "matchs": [
+    {
+      "id": 1,
+      "championnat": {
+        "nom": "NATIONALE MASCULINE 3",
+        "nomCourt": "NM3",
+        "poule": "A",
+        "genre": "masculin",
+        "categorie": "Sénior"
+      },
+      "equipeDomicile": {
+        "id": 1,
+        "nom": "SPO Rouen Basketball 2",
+        "logoURl": "TODO"
+      },
+      "equipeExterieur": {
+        "id": 2,
+        "nom": "GRAVELINE GRAND FORT BCM",
+        "logoURl": "TODO"
+      },
+      "score": {
+        "domicile": 63,
+        "exterieur": 78
+      },
+      "date": "2018-11-26T23:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "championnat": {
+        "nom": "NATIONALE MASCULINE 3",
+        "poule": "A",
+        "genre": "masculin",
+        "categorie": "Sénior"
+      },
+      "equipeDomicile": {
+        "id": 1,
+        "nom": "SPO Rouen Basketball 2",
+        "logoURl": "TODO"
+      },
+      "equipeExterieur": {
+        "id": 2,
+        "nom": "GRAVELINE GRAND FORT BCM",
+        "logoURl": "TODO"
+      },
+      "score": {
+        "domicile": 63,
+        "exterieur": 78
+      },
+      "date": "2018-11-26T23:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "championnat": {
+        "nom": "NATIONALE MASCULINE 3",
+        "nomCourt": "NM3",
+        "poule": "A",
+        "genre": "masculin",
+        "categorie": "Sénior"
+      },
+      "equipeDomicile": {
+        "id": 1,
+        "nom": "SPO Rouen Basketball 2",
+        "logoURl": "TODO"
+      },
+      "equipeExterieur": {
+        "id": 2,
+        "nom": "GRAVELINE GRAND FORT BCM",
+        "logoURl": "TODO"
+      },
+      "score": {
+        "domicile": 63,
+        "exterieur": 78
+      },
+      "date": "2018-11-26T23:00:00.000Z"
+    },
+    {
+      "id": 1,
+      "championnat": {
+        "nom": "NATIONALE MASCULINE 3",
+        "nomCourt": "NM3",
+        "poule": "A",
+        "genre": "masculin",
+        "categorie": "Sénior"
+      },
+      "equipeDomicile": {
+        "id": 1,
+        "nom": "SPO Rouen Basketball 2",
+        "logoURl": "TODO"
+      },
+      "equipeExterieur": {
+        "id": 2,
+        "nom": "GRAVELINE GRAND FORT BCM",
+        "logoURl": "TODO"
+      },
+      "score": {
+        "domicile": 63,
+        "exterieur": 78
+      },
+      "date": "2018-11-26T23:00:00.000Z"
     }
   ]
 }
